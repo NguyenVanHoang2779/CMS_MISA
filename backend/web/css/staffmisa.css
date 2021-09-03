@@ -1,0 +1,90 @@
+.phancap {
+    display: flex;
+    width: 21%;
+    margin-left: 3%;
+}
+
+.lanhanvien {
+    margin-right: 4%;
+    padding-top: 13px;
+}
+.lanhanvien2 {
+    margin-right: 4%;
+    padding-top: 13px;
+}
+
+.trai {
+    width: 40%;
+    margin-left: 1.5%;
+}
+
+.phai {
+    width: 40%;
+    margin-left: 11%;
+}
+
+.ngaysinh {
+    margin-left: 1.5%;
+    margin-right: 9%;
+}
+
+.nam {
+    margin-right: 113%;
+}
+
+.socmnd {
+    margin-left: 1.5%;
+    margin-right: 9%;
+    width: 50%;
+}
+
+.tkthu {
+    margin-left: 2%;
+    margin-right: 14%;
+}
+
+.duoi {
+    margin-left: 1.5%;
+    margin-top: 56px;
+}
+
+.button-lienhe {
+    border-radius: 0px;
+    border: 1px solid #c9cbd2;
+}
+
+.button-lienhe:focus {
+    background-color: #cbe0f9;
+}
+
+.button-lienhe:hover {
+    color: green;
+    background-color: white;
+}
+
+.baotrum {
+    border: 1px solid;
+    margin-left: -0.7%;
+}
+
+.lienhe {
+    padding: 1%;
+    padding-bottom: 4%;
+}
+
+.dienthoai {
+    margin-right: 2%;
+}
+.taikhoannganhang{
+    padding: 1%;
+    padding-bottom: 4%;
+}
+.taikhoannganhang1{
+    padding-left: 1%;
+}
+.button-save{
+    float: right;
+    margin-top: 15px;
+    display: flex;
+    margin-right: 2%;
+}
